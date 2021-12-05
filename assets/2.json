@@ -1,0 +1,19 @@
+{
+    "name": "CURIOUS_SHNIP",
+    "symbol": "",
+    "image": "2.png",
+    "properties": {
+      "files": [
+        {
+          "uri": "2.png",
+          "type": "image/png"
+        }
+      ],
+      "creators": [
+        {
+          "address": "FrXKTWpT6qdDjJ5Kt214CNMAki4QqHSDEcSsWh1ZCTQw",
+          "share": 100
+        }
+      ]
+    }
+  }
